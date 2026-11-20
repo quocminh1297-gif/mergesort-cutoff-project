@@ -1,0 +1,10 @@
+Timestamp       : 2026-11-20 21:06:39
+Mode            : FULL
+Warmup rounds   : 5
+Trials (E1/E2/E3): 15 / 15 / 11
+OS              : Windows 11 10.0 (amd64)
+Logical CPUs    : 20
+Java Version    : 25.0.2 (Oracle Corporation)
+JVM Name        : Java HotSpot(TM) 64-Bit Server VM 25.0.2+10-LTS-69
+Max Heap (MB)   : 4096
+JVM Flags       : [-Xms4g, -Xmx4g, -XX:+AlwaysPreTouch]
